@@ -171,7 +171,7 @@ public class MyApplication implements Application {
                         + "Instrument_TimeInForce=" + ti + "\n"
                         + "Instrument_MaxTradeVol=" + maxTradeVol + "\n"
                         + "Instrument_MinTradeVol=" + minTradeVol + "\n"
-                        + "Instrument_MaxPrcVariation" + maxPrcVariation + "\n"
+                        + "Instrument_MaxPrcVariation=" + maxPrcVariation + "\n"
                         + "Instrument_TradingCurrency=" + trCurr + "\n"
                         + "Instrument_Lot=" + lot + "\n"
                         + "Instrument_SecurityStatus=" + securityStatus + "\n"
